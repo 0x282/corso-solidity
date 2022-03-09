@@ -1,2 +1,2 @@
 # corso-solidity
-codice sviluppato durante il corso su Solidity
+progetti e codice sviluppato durante il corso su Solidity
